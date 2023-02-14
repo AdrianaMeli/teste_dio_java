@@ -9,7 +9,7 @@ public class Primeiro_Programa {
 		Gato gato = new Gato();
 		Livros livro = new Livros();
 		System.out.println(gato);
-		System.out.println(livro);
+		System.out.println(livros);
 	}
 	
 }
